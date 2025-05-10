@@ -61,9 +61,10 @@ I develop AI-driven models for natural language processing tasks such as named e
 
 ## 🌐 Connect with Me  
 <p align="center">
-    <a href="https://www.linkedin.com/in/sunny-wazeer-2b8b90316/" target="_blank">Sunny Wazeer – NLP Expert</a>
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-    </a>
+    <a href="https://www.linkedin.com/in/sunny-wazeer-2b8b90316/" target="_blank">
+    <img src="https://img.shields.io/badge/Sunny%20Wazeer%20–%20NLP%20Expert-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Sunny Wazeer – NLP Expert" />
+</a>
+
     <a href="https://github.com/Sunny-Wazeer">
         <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=GitHub&logoColor=white" />
     </a>

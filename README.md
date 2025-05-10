@@ -61,7 +61,7 @@ I develop AI-driven models for natural language processing tasks such as named e
 
 ## 🌐 Connect with Me  
 <p align="center">
-    <a href="https://www.linkedin.com/in/Sunny-Wazeer-NLP-Expert/">
+    <a href="https://www.linkedin.com/in/sunny-wazeer-2b8b90316/">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
     <a href="https://github.com/Sunny-Wazeer">

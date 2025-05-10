@@ -1,6 +1,6 @@
-# sunnywazeer
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Assad+Khurshid!+%F0%9F%91%8B;Python+Data+Scientist;Machine+Learning+Enthusiast;AI+Innovator;Open+to+Collaboration!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Sunny+Wazeer!+%F0%9F%91%8B;Python+Data+Scientist;Machine+Learning+Enthusiast;AI+Innovator;Open+to+Collaboration!">
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me  
 I am a **Python Data Scientist** specializing in data analysis, machine learning, and optimization.  
-I develop AI-driven models for predictive analytics, image recognition, and anomaly detection using **TensorFlow** and **PyTorch**.  
+I develop AI-driven models for natural language processing tasks such as named entity recognition (NER), machine translation, question answering, recommendation systems, and chatbot development, along with custom language model fine-tuning, using **TensorFlow and PyTorch**. 
 
 🔎 I love solving complex problems using data and am passionate about **emerging technologies**!  
 ⚡ Currently contributing to projects in **NLP for building real-world applications** and **Generative AI for Industrial Design Prototyping**.
@@ -25,9 +25,9 @@ I develop AI-driven models for predictive analytics, image recognition, and anom
 ---
 
 ## 🔭 Current Projects  
-### 🔹 Energy Load Forecasting for Smart Grids
-- Enhancing grid reliability through short- and long-term time series forecasting of electricity demand.
-- Using models like SARIMA, Prophet, and LSTM for adaptive, real-time prediction in decentralized energy systems.
+### 🔹 Language Model Integration for Rag-Based Applications
+- Developing and deploying advanced models for generating content in rag-based (retrieval-augmented generation) applications.
+- The project focuses on enhancing the responsiveness and contextual accuracy of AI-generated responses by integrating language models with retrieval systems.
 
 ### 🔹 Generative AI for Industrial Design Prototyping  
 - Applying Diffusion Models and StyleGAN to automate and accelerate industrial product design workflows.
@@ -61,7 +61,7 @@ I develop AI-driven models for predictive analytics, image recognition, and anom
 
 ## 🌐 Connect with Me  
 <p align="center">
-    <a href="https://www.linkedin.com/in/sunny-wazeer-2b8b90316/">Sunny Wazeer – NLP Expert</a>
+    <a href="https://www.linkedin.com/in/sunny-wazeer-2b8b90316/" target="_blank">Sunny Wazeer – NLP Expert</a>
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
     <a href="https://github.com/Sunny-Wazeer">

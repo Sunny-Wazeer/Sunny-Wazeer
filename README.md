@@ -47,6 +47,8 @@ I develop AI-driven models for natural language processing tasks such as named e
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/Pyomo-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chatbot--Development-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data--Modeling-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---

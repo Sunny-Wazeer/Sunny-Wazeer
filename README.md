@@ -54,7 +54,7 @@ I develop AI-driven models for natural language processing tasks such as named e
 ---
 
 ## 📚 Learning & Growth  
-- Advanced AI techniques: **Neural Networks**, **Random Forest**, **XGBoost**, and **LSTM**.  
+- Advanced AI techniques: **Neural Networks**, **LSTM**, **Transformer model**,and **Agentic AI**.  
 - Cloud infrastructure for scalable model deployment.
 
 ---

@@ -76,7 +76,7 @@ I develop AI-driven models for natural language processing tasks such as named e
 ---
 
 <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=SunnyWazeer.SunnyWazeer" alt="Visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sunny-Wazeer.Sunny-Wazeer" alt="Visitors">
     <img src="https://img.shields.io/github/followers/AssadKhurshid?label=Follow&style=social" alt="GitHub Followers">
 </p>
 

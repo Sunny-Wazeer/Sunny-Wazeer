@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Sunny+Wazeer!+%F0%9F%91%8B;Python+Data+Scientist;Machine+Learning+Enthusiast;AI+Innovator;Open+to+Collaboration!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Sunny+Wazeer!+%F0%9F%91%8B;AI+ML+Engineer;Generative+AI+Enthusiast;AI+Innovator;Open+to+Collaboration!">
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me  
-I am a **Python Data Scientist** specializing in data analysis, machine learning, and optimization.  
+I am a **Artificial Intelligence and machine learning engineer** specializing in data analysis, machine learning, and optimization.  
 I develop AI-driven models for natural language processing tasks such as named entity recognition (NER), machine translation, question answering, recommendation systems, and chatbot development, along with custom language model fine-tuning, using **TensorFlow and PyTorch**. 
 
 🔎 I love solving complex problems using data and am passionate about **emerging technologies**!  
@@ -54,7 +54,7 @@ I develop AI-driven models for natural language processing tasks such as named e
 ---
 
 ## 📚 Learning & Growth  
-- Advanced AI techniques: **Neural Networks**, **LSTM**, **Transformer model**,and **Agentic AI**.  
+- Advanced AI techniques: **Neural Networks**, **LLMs**, **Transformer model**,and **Agentic AI**.  
 - Cloud infrastructure for scalable model deployment.
 
 ---
